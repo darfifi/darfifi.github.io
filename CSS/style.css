@@ -254,6 +254,10 @@
         margin-right: 35px;
     }
 
+    .desktop-left-menu-item {
+        margin-left: 50px;
+    }
+
     .menu-item a {
         font-family: Roboto;
         font-size: 18px;
