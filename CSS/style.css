@@ -2,6 +2,10 @@
 /* ----------- GENERAL CSS ----------- */
 /* ----------------------------------- */
 
+html {
+    scroll-behavior: smooth;
+}
+
 .say-hello {
     font-family: Roboto;
     color: rgb(108, 107, 107);
@@ -54,11 +58,10 @@
 
 .description {
     font-family: Roboto;
-    line-height: 25px;
+    line-height: 30px;
     letter-spacing: 1px;
     text-align: center;
     color: rgb(108, 107, 107);
-    line-height: 30px;
 }
 
 .soft-skills-image-title {
